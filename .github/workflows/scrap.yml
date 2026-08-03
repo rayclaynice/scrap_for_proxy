@@ -1,4 +1,4 @@
-name: Proxy Scraper
+name: Proxy Scraper v2
 
 on:
   schedule:
